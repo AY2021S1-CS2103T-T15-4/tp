@@ -428,7 +428,7 @@ Each category is represented by the following icons in the UI:
 |------------|------------------
 |`achievement`| <p align="center"><img src="images/achievement.png" width="10%" height="10%"/></p>
 |`experience` | <p align="center"><img src="images/experience.png" width="10%" height="10%"/></p>
-|`skill`      | <p align="center"><img src="images/skills.png" width="100%" height="100%"/></p>
+|`skill`      | <p align="center"><img src="images/skills.png" width="10%" height="10%"/></p>
 
 
 Each profile item also contains a `TITLE` that describes the item, and you can optionally 
