@@ -25,7 +25,7 @@ title: User Guide
   [4.2.2. Deleting an internship: `delete int`](#deleting-an-internship-delete-int) <br />
   [4.2.3. Editing an internship: `edit int`](#editing-an-internship-edit-int) <br />
  [4.3. Application](#application) <br />
-  [4.3.1. Applying for an internship: `add app`](#applying-for-an-internship-add-app) <br />
+  [4.3.1. Applying for an internship: `add app`](#applying-for-an-internship-add-app) <br />
   [4.3.2. Deleting an application: `delete app`](#deleting-an-application-delete-app) <br />
   [4.3.3. Updating an application: `edit app`](#updating-an-application-edit-app) <br />
   [4.3.4. Viewing an application: `view app`](#viewing-an-application-view-app) <br />
@@ -426,9 +426,9 @@ Each category is represented by the following icons in the UI:
 
 | CATEGORY   | ICON 
 |------------|------------------
-|`achievement`| <p><img src="images/achievement.png" width="10%" height="10%"/></p>
-|`experience` | <p><img src="images/experience.png" width="10%" height="10%"/></p>
-|`skill`      | <p><img src="images/skill.png" width="10%" height="10%"/></p>
+|`achievement`| <p align="center"><img src="images/achievement.png" width="10%" height="10%"/></p>
+|`experience` | <p align="center"><img src="images/experience.png" width="10%" height="10%"/></p>
+|`skill`      | <p align="center"><img src="images/skills.png" width="100%" height="100%"/></p>
 
 
 Each profile item also contains a `TITLE` that describes the item, and you can optionally 
